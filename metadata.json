@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dhurv8sh@proton.me",
+                "Name": "Dhruvesh Surolia"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "For all your separation tasks",
+        "Icon": "filename-divider",
+        "Id": "org.kde.separator",
+        "License": "GPLv2",
+        "Name": "Separator",
+        "ServiceTypes": ["Plasma/Applet"],
+        "Version": "0.1"
+    },
+    "Keywords": "separator",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
